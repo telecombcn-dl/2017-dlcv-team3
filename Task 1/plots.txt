@@ -1,0 +1,31 @@
+Reduce train error (Bias) ¡only plot acc and loss!
+    Bigger model (Architecture)
+        First plot:
+        - mlp
+
+        Second:
+        - 2conv1pool
+
+        Third:
+        - 4conv2pool
+
+        Forth:
+        - 6conv3pool
+
+        Fifth:
+        - 2dense
+
+Reduce train-dev error (Variance) ¡plot acc with val_acc and loss with val_loss!
+   Regularization with dropout
+        Sixth:
+        - dropout (Consideramos que esta es la arquitectura más completa)
+
+   Data augmentation
+        Seventh:
+        - dropout_arch_DA.txt
+        - mlp_arch_DA.txt
+
+Other improvements: plot train or validation
+    More neurons
+        Eigth:
+        -dropout_neurons
