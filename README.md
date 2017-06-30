@@ -63,7 +63,7 @@ python pix2pix-tensorflow/tools/process.py \
 
 ![model][model-photo]
 
-[model-photo]: ./Edges2Faces/images/model "Model Photo"
+[model-photo]: ./Edges2Faces/images/model.png "Model Photo"
 
 Finally, in order to train and test the model:
 
